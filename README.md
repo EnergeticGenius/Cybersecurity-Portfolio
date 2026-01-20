@@ -1,8 +1,8 @@
 
-# Cybersecurity & IT Portfolio — Mykhailo Rudkovskyi
+# Cybersecurity & IT Portfolio 
 
 
-##English
+## English
 This repository is a personal learning portfolio documenting my academic background and self-study in:
 - Networking
 - Linux systems
@@ -11,7 +11,6 @@ This repository is a personal learning portfolio documenting my academic backgro
 - Security tools and labs
 
 It includes notes, summaries, and project-style write-ups based on:
-• University studies in Cybersecurity (Ukraine)
 • CompTIA Security+ (2024)
 • eJPT preparation
 • Hack The Box labs
@@ -21,7 +20,7 @@ This portfolio is a **work in progress** and is continuously updated.
 
 ---
 
-##Francais
+## Francais
 
 Ce dépôt est un portfolio personnel présentant mon parcours académique et mon auto-formation en :
 - Réseaux
@@ -31,7 +30,6 @@ Ce dépôt est un portfolio personnel présentant mon parcours académique et mo
 - Outils de cybersécurité
 
 Il contient des notes, des synthèses et des mini-projets basés sur :
-• Études universitaires en cybersécurité (Ukraine)
 • Certification CompTIA Security+ (2024)
 • Préparation eJPT
 • Labs Hack The Box
@@ -41,4 +39,4 @@ Ce portfolio est un **travail évolutif**, mis à jour régulièrement.
 
 ---
 
-Author: Mykhailo Rudkovskyi
+Author: Mykhailo
